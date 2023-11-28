@@ -24,7 +24,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/base.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/base.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -68,7 +68,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/shoulder.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/shoulder.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -113,7 +113,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/upperarm.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/upperarm.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -158,7 +158,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/forearm.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/forearm.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -203,7 +203,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/wrist1.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/wrist1.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -248,7 +248,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/wrist2.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/wrist2.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -293,7 +293,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>model://cable_routing/models/ur5e_description/meshes/visual/wrist3.dae</uri>
+            <uri>model://ur5e_description/meshes/visual/wrist3.dae</uri>
           </mesh>
         </geometry>
       </visual>
